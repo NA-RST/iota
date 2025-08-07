@@ -12,3 +12,5 @@ Clara grew up in Massachusetts.
 She works at Carnegie Mellon University. 
 
 Fun fact: she can juggle!
+
+This readme was peer reviewed by: Clara
