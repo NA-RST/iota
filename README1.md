@@ -1,16 +1,21 @@
 Version Control Training README1: Clara Brandt
 Here is some interesting information about each of us:
 
-Nick lives in Atlanta.  
+Nick lives in Atlanta.
 
-He is a fan of the Boston Red Sox.  
+He is a fan of the Boston Red Sox.
 
-He works at the Atlanta Fed.  
+He works at the Atlanta Fed.
 
-Clara grew up in Massachusetts. 
+Clara grew up in Massachusetts.
 
-She works at Carnegie Mellon University. 
+She works at Carnegie Mellon University.
 
 Fun fact: she can juggle!
 
 This readme was peer reviewed by: Clara
+
+
+
+Anything
+
